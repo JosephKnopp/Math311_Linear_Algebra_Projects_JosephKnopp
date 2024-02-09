@@ -8,3 +8,8 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 
 Using Google Co-Laboratory to introduce the idea of solving systems of equations with code:
 https://github.com/JosephKnopp/Math311_Linear_Algebra_Projects_JosephKnopp/blob/main/Math_311_solve_systems_using_computation_and_rref_JosephKnopp.ipynb
+
+2. The Skil Hill Example: Modeling future behavior using transition matrices.
+
+Using Google Co-Laboratory to explore Markov Chains.
+https://github.com/JosephKnopp/Math311_Linear_Algebra_Projects_JosephKnopp/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains_Joseph_T_Knopp.ipynb
