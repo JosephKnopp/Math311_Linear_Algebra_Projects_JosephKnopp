@@ -13,3 +13,8 @@ https://github.com/JosephKnopp/Math311_Linear_Algebra_Projects_JosephKnopp/blob/
 
 Using Google Co-Laboratory to explore Markov Chains.
 https://github.com/JosephKnopp/Math311_Linear_Algebra_Projects_JosephKnopp/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains_Joseph_T_Knopp.ipynb
+
+3. Gram-Schmidt Process
+
+Using Google Co-Labratory to explore the Gram-Schmidt process.
+https://github.com/JosephKnopp/Math311_Linear_Algebra_Projects_JosephKnopp/blob/main/Gram_Schmidt_Process_3_29_2024_Joseph_T_Knopp.ipynb
